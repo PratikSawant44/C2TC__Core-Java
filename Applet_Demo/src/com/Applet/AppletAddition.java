@@ -27,5 +27,3 @@ public class AppletAddition extends Applet {
 	    return true;
 	}
 }
-
-
