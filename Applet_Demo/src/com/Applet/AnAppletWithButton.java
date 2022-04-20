@@ -24,3 +24,4 @@ public class AnAppletWithButton extends Applet implements ActionListener {
 
 	Button button1, button2;
 }
+
