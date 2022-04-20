@@ -11,8 +11,7 @@ public class AppletAddition extends Applet {
 		add(t1=new TextField(5));
 		add(l=new Label("+"));
 		add(t2=new TextField(5));
-		add(b=new Button("="));
-		add(t3=new TextField(5));
+		c
 		
 	}
 	public boolean action(Event e,Object o)
